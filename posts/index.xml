@@ -6,28 +6,14 @@
     <description>Recent content in Posts on 路西恩</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Nov 2023 17:08:55 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 27 Nov 2023 22:07:35 +0800</lastBuildDate>
     <atom:link href="http://lxsir2002.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First</title>
-      <link>http://lxsir2002.github.io/posts/first/</link>
-      <pubDate>Mon, 27 Nov 2023 17:08:55 +0800</pubDate>
-      <guid>http://lxsir2002.github.io/posts/first/</guid>
-      <description>hello</description>
-    </item>
-    <item>
-      <title>Two</title>
-      <link>http://lxsir2002.github.io/posts/two/</link>
-      <pubDate>Mon, 27 Nov 2023 17:08:55 +0800</pubDate>
-      <guid>http://lxsir2002.github.io/posts/two/</guid>
-      <description>本地更新</description>
-    </item>
-    <item>
-      <title>Code Content</title>
-      <link>http://lxsir2002.github.io/posts/code-content/</link>
-      <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://lxsir2002.github.io/posts/code-content/</guid>
-      <description>t1 🔗aaaa Test aaa text. t1.1 🔗aaaa t1.2 🔗aaaa t1.2.1 🔗aaaa t1.2.2 🔗aaaa t2 🔗aaaa t3 🔗 One / testing some code / Two Three 超宽显示 var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a</description>
+      <title>添加文章</title>
+      <link>http://lxsir2002.github.io/posts/%E6%B7%BB%E5%8A%A0%E6%96%87%E7%AB%A0/</link>
+      <pubDate>Mon, 27 Nov 2023 22:07:35 +0800</pubDate>
+      <guid>http://lxsir2002.github.io/posts/%E6%B7%BB%E5%8A%A0%E6%96%87%E7%AB%A0/</guid>
+      <description>创建Markdown文件 🔗hugo new posts/push-blog.md 创建后好可以使用编辑器进行编辑 本地预览 🔗hugo server 在本地重新构建 🔗theme 为主题名称 baseURL 为github</description>
     </item>
   </channel>
 </rss>

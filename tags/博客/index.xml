@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>路西恩</title>
-    <link>http://lxsir2002.github.io/</link>
-    <description>Recent content on 路西恩</description>
+    <title>博客 on 路西恩</title>
+    <link>http://lxsir2002.github.io/tags/%E5%8D%9A%E5%AE%A2/</link>
+    <description>Recent content in 博客 on 路西恩</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Nov 2023 22:07:35 +0800</lastBuildDate>
-    <atom:link href="http://lxsir2002.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lxsir2002.github.io/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>添加文章</title>
       <link>http://lxsir2002.github.io/posts/%E6%B7%BB%E5%8A%A0%E6%96%87%E7%AB%A0/</link>
