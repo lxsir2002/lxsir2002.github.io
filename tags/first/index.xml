@@ -15,5 +15,12 @@
       <guid>http://lxsir2002.github.io/posts/first/</guid>
       <description>hello</description>
     </item>
+    <item>
+      <title>Two</title>
+      <link>http://lxsir2002.github.io/posts/two/</link>
+      <pubDate>Mon, 27 Nov 2023 17:08:55 +0800</pubDate>
+      <guid>http://lxsir2002.github.io/posts/two/</guid>
+      <description>本地更新</description>
+    </item>
   </channel>
 </rss>
